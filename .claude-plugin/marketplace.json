@@ -1,0 +1,14 @@
+{
+  "name": "adaptive-technical-learning-coach",
+  "description": "Adaptive Technical Learning Coach: tailored technical courses for Claude Code",
+  "owner": {
+    "name": "Sumit Kaulkar"
+  },
+  "plugins": [
+    {
+      "name": "adaptive-technical-learning-coach",
+      "source": "./",
+      "description": "Teaches any technical topic as a course sized to your goal, time and current level."
+    }
+  ]
+}

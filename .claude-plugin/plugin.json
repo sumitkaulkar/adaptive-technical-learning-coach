@@ -1,0 +1,12 @@
+{
+  "name": "adaptive-technical-learning-coach",
+  "version": "1.3.0",
+  "description": "Teaches any technical topic as a course sized to your goal, time and current level, from a 2 hour crash course to a multi-week deep dive.",
+  "author": {
+    "name": "Sumit Kaulkar"
+  },
+  "homepage": "https://github.com/sumitkaulkar/adaptive-technical-learning-coach",
+  "repository": "https://github.com/sumitkaulkar/adaptive-technical-learning-coach",
+  "license": "MIT",
+  "keywords": ["learning", "teaching", "course", "interview-prep", "upskilling", "agent-skills"]
+}
